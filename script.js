@@ -5,7 +5,7 @@ function getAdmins(map){
             admins.push(key)
         }
     }
-    return admins
+    return admins;
 }
 
 const usuarios = new Map();
