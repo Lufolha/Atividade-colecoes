@@ -1,2 +1,2 @@
-# Atividade-colecoes
-Atividade prática do curso Coleções, parte do Bootcamp Carrefour Web Developer, realizado pela DIO.
+# Atividade sobre coleções
+Atividade prática do curso Coleções, com teste de Map e Set, como parte do Bootcamp Carrefour Web Developer, realizado pela DIO.
